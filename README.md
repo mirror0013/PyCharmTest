@@ -1,0 +1,2 @@
+# PyCharmTest
+Richardson &amp; etc.
